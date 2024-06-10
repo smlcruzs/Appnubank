@@ -25,9 +25,7 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="" width="100px">  | Samuel Cruz dos Santos | [Samuel Cruz](https://github.com/smlcruzs) | [Linkedin](www.linkedin.com/in/samuel-cruzsp
-
-) | smlcruzs@gmail.com
+<img src="" width="100px">  | Samuel Cruz dos Santos | [Samuel Cruz](https://github.com/smlcruzs) | [Linkedin](www.linkedin.com/in/samuel-cruzsp) | smlcruzs@gmail.com
 
 ## :computer: Tecnologias
 
@@ -58,7 +56,7 @@ Lançado em 2020.
 Este projeto está sob a [MIT license](https://github.com/rafaellevissa/nubank_Interface/blob/master/LICENSE).
 
 <p align="center">
-    Feito com :heart: por <a href="https://github.com/rafaelevissa">Rafael Levi</a>
+   
 </p>
 
 <!-- Markdown link & img dfn's -->
