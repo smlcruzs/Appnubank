@@ -25,7 +25,9 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="./doc/levi.jpg" width="100px">  | Rafael Levi Batista Costa | [Rafael Levi](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafaellevissa/) | rafaellevissa@gmail.com
+<img src="" width="100px">  | Samuel Cruz dos Santos | [Samuel Cruz](https://github.com/smlcruzs) | [Linkedin](www.linkedin.com/in/samuel-cruzsp
+
+) | smlcruzs@gmail.com
 
 ## :computer: Tecnologias
 
